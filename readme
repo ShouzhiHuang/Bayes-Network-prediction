@@ -7,5 +7,4 @@ structure of gene network and numbers of each nodes represent gene 1 to 6.
 
 The detail report has been generated and its name is 'report.txt'.
 
-(Attention:the code need running on the matlab 2015b or more later version 
-because I used some class which not exist in the version before 2015b.)
+(Attention: the code need running on the matlab 2015b or later version.)
